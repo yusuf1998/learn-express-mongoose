@@ -1,0 +1,17 @@
+{
+  "name": "learn-express-mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "yusuf1998 <yusufhabibi1998@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "i": "^0.3.6",
+    "mongoose": "^5.4.5"
+  }
+}
